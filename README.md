@@ -29,6 +29,7 @@ This portfolio was created using HTML and CSS to present my personal information
 - HTML5
 - CSS3
 - Font Awesome
+- Github
 
 
 
