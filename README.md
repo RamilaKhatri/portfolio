@@ -68,5 +68,5 @@ portfolio/
 - Contact
 
 
- GitHub: https://github.com/RamilaKhatri
+ GitHub: https://github.com/RamilaKhatri/portfolio
 
